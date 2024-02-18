@@ -8,7 +8,7 @@ namespace ErwinDataExtractorLib
 {
     public class ErwinDataExtractor
     {
-        public string ExtractErwinDataToJson(string erwinFilePath)
+        public static string ExtractErwinDataToJson(string erwinFilePath)
         {
             try
             {
