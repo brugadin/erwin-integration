@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "erwinSpy.NET", "erwinSpy.NET\erwinSpy.NET.vbproj", "{865FB810-64FD-4B18-8A22-12911AF67B95}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "erwinSpy_AddIn.NET", "erwinSpy_AddIn.NET\erwinSpy_AddIn.NET.vbproj", "{1B47881F-1E51-4402-93B1-8785E44510F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErwinClient", "ErwinClient\ErwinClient.csproj", "{419507A5-6130-44A2-9E8F-815A924C09AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{865FB810-64FD-4B18-8A22-12911AF67B95}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{865FB810-64FD-4B18-8A22-12911AF67B95}.Debug|Any CPU.Build.0 = Debug|x64
+		{865FB810-64FD-4B18-8A22-12911AF67B95}.Debug|x64.ActiveCfg = Debug|x64
+		{865FB810-64FD-4B18-8A22-12911AF67B95}.Debug|x64.Build.0 = Debug|x64
+		{865FB810-64FD-4B18-8A22-12911AF67B95}.Debug|x86.ActiveCfg = Debug|x86
+		{865FB810-64FD-4B18-8A22-12911AF67B95}.Debug|x86.Build.0 = Debug|x86
+		{865FB810-64FD-4B18-8A22-12911AF67B95}.Release|Any CPU.ActiveCfg = Release|x64
+		{865FB810-64FD-4B18-8A22-12911AF67B95}.Release|Any CPU.Build.0 = Release|x64
+		{865FB810-64FD-4B18-8A22-12911AF67B95}.Release|x64.ActiveCfg = Release|x64
+		{865FB810-64FD-4B18-8A22-12911AF67B95}.Release|x64.Build.0 = Release|x64
+		{865FB810-64FD-4B18-8A22-12911AF67B95}.Release|x86.ActiveCfg = Release|x86
+		{865FB810-64FD-4B18-8A22-12911AF67B95}.Release|x86.Build.0 = Release|x86
+		{1B47881F-1E51-4402-93B1-8785E44510F8}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{1B47881F-1E51-4402-93B1-8785E44510F8}.Debug|Any CPU.Build.0 = Debug|x64
+		{1B47881F-1E51-4402-93B1-8785E44510F8}.Debug|x64.ActiveCfg = Debug|x64
+		{1B47881F-1E51-4402-93B1-8785E44510F8}.Debug|x64.Build.0 = Debug|x64
+		{1B47881F-1E51-4402-93B1-8785E44510F8}.Debug|x86.ActiveCfg = Debug|x86
+		{1B47881F-1E51-4402-93B1-8785E44510F8}.Debug|x86.Build.0 = Debug|x86
+		{1B47881F-1E51-4402-93B1-8785E44510F8}.Release|Any CPU.ActiveCfg = Release|x64
+		{1B47881F-1E51-4402-93B1-8785E44510F8}.Release|Any CPU.Build.0 = Release|x64
+		{1B47881F-1E51-4402-93B1-8785E44510F8}.Release|x64.ActiveCfg = Release|x64
+		{1B47881F-1E51-4402-93B1-8785E44510F8}.Release|x64.Build.0 = Release|x64
+		{1B47881F-1E51-4402-93B1-8785E44510F8}.Release|x86.ActiveCfg = Release|x86
+		{1B47881F-1E51-4402-93B1-8785E44510F8}.Release|x86.Build.0 = Release|x86
+		{419507A5-6130-44A2-9E8F-815A924C09AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419507A5-6130-44A2-9E8F-815A924C09AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419507A5-6130-44A2-9E8F-815A924C09AB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{419507A5-6130-44A2-9E8F-815A924C09AB}.Debug|x64.Build.0 = Debug|Any CPU
+		{419507A5-6130-44A2-9E8F-815A924C09AB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{419507A5-6130-44A2-9E8F-815A924C09AB}.Debug|x86.Build.0 = Debug|Any CPU
+		{419507A5-6130-44A2-9E8F-815A924C09AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419507A5-6130-44A2-9E8F-815A924C09AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{419507A5-6130-44A2-9E8F-815A924C09AB}.Release|x64.ActiveCfg = Release|Any CPU
+		{419507A5-6130-44A2-9E8F-815A924C09AB}.Release|x64.Build.0 = Release|Any CPU
+		{419507A5-6130-44A2-9E8F-815A924C09AB}.Release|x86.ActiveCfg = Release|Any CPU
+		{419507A5-6130-44A2-9E8F-815A924C09AB}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F30501E-6AD1-47C6-A65B-44A339DAD698}
+	EndGlobalSection
+EndGlobal
