@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErwinClient", "ErwinClient\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErwinDataExtractorLib", "ErwinDataExtractorLib\ErwinDataExtractorLib.csproj", "{806CE010-4853-49FA-8BA8-632E34CAAE09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErwinDataApi", "ErwinDataApi\ErwinDataApi.csproj", "{F05EDC82-9D5F-43B5-A427-CC5B4A65C184}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,18 @@ Global
 		{806CE010-4853-49FA-8BA8-632E34CAAE09}.Release|x64.Build.0 = Release|Any CPU
 		{806CE010-4853-49FA-8BA8-632E34CAAE09}.Release|x86.ActiveCfg = Release|Any CPU
 		{806CE010-4853-49FA-8BA8-632E34CAAE09}.Release|x86.Build.0 = Release|Any CPU
+		{F05EDC82-9D5F-43B5-A427-CC5B4A65C184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05EDC82-9D5F-43B5-A427-CC5B4A65C184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F05EDC82-9D5F-43B5-A427-CC5B4A65C184}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F05EDC82-9D5F-43B5-A427-CC5B4A65C184}.Debug|x64.Build.0 = Debug|Any CPU
+		{F05EDC82-9D5F-43B5-A427-CC5B4A65C184}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F05EDC82-9D5F-43B5-A427-CC5B4A65C184}.Debug|x86.Build.0 = Debug|Any CPU
+		{F05EDC82-9D5F-43B5-A427-CC5B4A65C184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F05EDC82-9D5F-43B5-A427-CC5B4A65C184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F05EDC82-9D5F-43B5-A427-CC5B4A65C184}.Release|x64.ActiveCfg = Release|Any CPU
+		{F05EDC82-9D5F-43B5-A427-CC5B4A65C184}.Release|x64.Build.0 = Release|Any CPU
+		{F05EDC82-9D5F-43B5-A427-CC5B4A65C184}.Release|x86.ActiveCfg = Release|Any CPU
+		{F05EDC82-9D5F-43B5-A427-CC5B4A65C184}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
